@@ -1,0 +1,34 @@
+/*Estilos da pagina index.html */
+.p1{
+   
+    text-align: center;
+    
+    
+}
+
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+.font{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.espaco{
+    padding: 50px;
+}
+.raio{
+    border-radius: 25%;
+}
+.hover {
+    color: gray;
+}
+.alinhado li{
+    display: inline;
+    padding: 20px;
+}
+
+
+/*Estilos da pagina Robies.html */
